@@ -27,10 +27,6 @@ A single-page compound interest calculator that projects investment growth with 
 - Contribution: recurring deposit; frequency can be monthly, quarterly, half-yearly, or annually.
 - Tenure: years plus extra months.
 
-## Add Your Own Photos
-1. Copy your images from your desktop into the `assets/` folder.
-2. Update the paths in the **Project Screenshots** section to match your filenames (e.g., `assets/your-photo.png`).
-
 ## Tech Notes
 - UI: Bootstrap 4.5.2, dark theme tweaks.
 - Charts: Chart.js 3.7.0 line chart for future value and contributions.
